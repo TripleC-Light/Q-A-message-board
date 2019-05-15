@@ -15,5 +15,5 @@ This program is used to leave question after listening to a speech
 2. 清空messageTXT.txt檔案
 3. 將程式放在網路的免費空間(需支援PHP)，並將網址提供給聽演講的人即可
 
-<img src="https://triplec-light.000webhostapp.com/image/Screenshot_20190516-032810.png">
-<img src="https://triplec-light.000webhostapp.com/image/Screenshot_20190516-032755.png">
+<img src="https://triplec-light.000webhostapp.com/image/Screenshot_20190516-032810.png" alt="drawing" width="200px"/><BR><BR>
+<img src="https://triplec-light.000webhostapp.com/image/Screenshot_20190516-032755.png" alt="drawing" width="200px"/>
